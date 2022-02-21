@@ -1,0 +1,110 @@
+body{
+    font-family: "poppins";
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    margin-bottom: 40px;
+}
+.container-fluid{
+    background-color: #F0FFF0;
+}
+.button-now1{
+    background-color: #21B573;
+    text-decoration: none;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+}
+section{
+    background-color: #F0FFF0;
+    margin-bottom: 50px;
+}
+.navbar{
+    background-color:#F0FFF0 ;
+}
+.navbar img{
+    width: 200px;
+}
+ .ss-1{
+    line-height:3em;
+}
+.button-now{
+    background-color: #21B573;
+    text-decoration: none;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 20px;
+
+}
+
+/* books and others */
+.book{
+    width: 50px;
+    margin-left: 30px;
+}
+.book1{
+    width: 60px;
+    margin-left: 45px;
+}
+.book2{
+    width: 60px;
+    margin-left: 45px;
+}
+.book3{
+    width: 60px;
+    margin-left: 45px;
+}
+.Books{
+    background-color: #F8FFFB;
+    border-radius: 5px;
+}
+.Books2{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 50px   lightgray;
+}
+.s-4{
+    margin-left: 20px;
+}
+.mama{
+    color: #413960;
+    font-weight: 700;
+}
+.by-1{
+    border: none;
+    background-color: #21B573;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 40px lightgray;
+}
+.testi{
+    text-align: center;
+    font-weight: 700;
+}
+.testi-ph{
+    width: 150px;
+}
+.haha{
+    line-height: 2em;
+}
+.hablu{
+    
+    background-color: #282531;
+    color: whitesmoke;
+}
+.hablu p{
+    color: lightgray;
+}
+footer p{
+    text-align: center;
+    color: gray;
+}
